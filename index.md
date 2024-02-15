@@ -10,8 +10,23 @@
 
 ## Screenshots
 
-##### Splash Screen.
-![Splash screen](SplashScreen.jpeg "Splash screen")
+##### 1- Splash Screen.
+<img src="SplashScreen.jpeg" alt="Splash screen" style="height: 500px; width:300px;"/>
+
+##### 2- Home Page.
+<img src="Home.jpeg" alt="Home page" style="height: 500px; width:300px;"/> <img src="Home2.jpeg" alt="Home page" style="height: 500px; width:300px;"/>
+
+##### 3- Artisans list.
+<img src="BrowseArtisans.jpeg" alt="Artisan List" style="height: 500px; width:300px;"/>
+
+##### 4- Services list.
+<img src="Services.jpeg" alt="Services list" style="height: 500px; width:300px;"/>
+
+##### 5- Register and Login screens.
+<img src="Register.jpeg" alt="Register" style="height: 500px; width:300px;"/> <img src="Login.jpeg" alt="Login" style="height: 500px; width:300px;"/>
+
+##### 6- Dashboard and profile screens.
+<img src="Dashboard.jpeg" alt="Dashboard" style="height: 500px; width:300px;"/> <img src="Profile.jpeg" alt="Profile" style="height: 500px; width:300px;"/>
 
 ## Technologies Used
 
