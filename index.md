@@ -10,7 +10,8 @@
 
 ## Screenshots
 
-##### Embed or link to screenshots showcasing different aspects of your project.
+##### Splash Screen.
+![Splash screen](SplashScreen.jpeg "Splash screen")
 
 ## Technologies Used
 
