@@ -1,7 +1,7 @@
 
 # Artisan Choice
 
-##### Working in a team of two, designed and developped a mobile application which brought together several service providers and their customers using their location to bring users's fast service delivery and proximity.
+##### Working in a team of two, designed and developped a mobile application which brought together several service providers and their customers using their location to bring users fast service delivery and proximity.
 
 
 ## Demo
